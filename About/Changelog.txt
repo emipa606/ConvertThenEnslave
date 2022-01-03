@@ -1,4 +1,7 @@
 # Changelog for ConvertThenEnslave
 
+1.3.1 - If prisoners change ideology on their own it will not count as a success unless its the same as the colonys ideology
+
+
 1.3.0 - First publish
 
