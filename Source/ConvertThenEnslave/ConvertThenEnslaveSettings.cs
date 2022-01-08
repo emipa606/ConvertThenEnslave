@@ -7,7 +7,7 @@ namespace ConvertThenEnslave;
 /// </summary>
 internal class ConvertThenEnslaveSettings : ModSettings
 {
-    public bool ReduceResistance = true;
+    public bool ReduceResistance;
 
     /// <summary>
     ///     Saving and loading the values
@@ -15,6 +15,6 @@ internal class ConvertThenEnslaveSettings : ModSettings
     public override void ExposeData()
     {
         base.ExposeData();
-        Scribe_Values.Look(ref ReduceResistance, "ReduceResistance", true);
+        Scribe_Values.Look(ref ReduceResistance, "ReduceResistance");
     }
 }
