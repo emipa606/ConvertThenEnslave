@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <CTE.pawnconverted>{0} has converted, will start enslaving.</CTE.pawnconverted>
-  <CTE.reduceresistance.label>Reduce resistane before enslaving</CTE.reduceresistance.label>
+  <CTE.reduceresistance.label>Reduce resistance before enslaving</CTE.reduceresistance.label>
   <CTE.reduceresistance.description>If enabled prisoners will have their resistance reduced before any enslaving attempt</CTE.reduceresistance.description>
   <CTE.version.label>Installed mod-version: {0}</CTE.version.label>
 </LanguageData>

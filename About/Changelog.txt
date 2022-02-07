@@ -1,5 +1,8 @@
 # Changelog for ConvertThenEnslave
 
+1.3.4 - Typo
+
+
 1.3.3 - Should now only modify interraction mode for prisoners, not wild pawns
 
 
