@@ -1,5 +1,8 @@
 # Changelog for ConvertThenEnslave
 
+1.3.6 - Added incompatibility with the new custom interactions-mod
+
+
 1.3.5 - Wild pawns must now be tamed before the convert option is shown, the same as in vanilla
 
 

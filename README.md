@@ -10,7 +10,8 @@ There is also an option to first reduce resistance before enslaving.
 This can be disabled in the options.
 
 If you like this one, take a look at my other prisoner interaction-mods
-https://steamcommunity.com/sharedfiles/filedetails/?id=2702584632]Convert Then Recruit
+https://steamcommunity.com/sharedfiles/filedetails/?id=2702584632]Convert Then Recruit,
+https://steamcommunity.com/sharedfiles/filedetails/?id=2838846353]Convert Then Release
 and
 https://steamcommunity.com/sharedfiles/filedetails/?id=2506029522]Release When Healthy
 
@@ -31,6 +32,7 @@ https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
